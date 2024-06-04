@@ -1,0 +1,31 @@
+{
+    "manufacturersData": [
+        {
+            "category": "Furniture Manufacturers",
+            "items": [
+                "ABC Furniture Co.",
+                "XYZ Furnishings",
+                "Modern Designs",
+                "Classic Creations"
+            ]
+        },
+        {
+            "category": "Kitchen Appliances Manufacturers",
+            "items": [
+                "KitchenPro",
+                "ApplianceMasters",
+                "CookingTech",
+                "HomeChef"
+            ]
+        },
+        {
+            "category": "Electronic Devices Manufacturers",
+            "items": [
+                "TechGuru",
+                "ElectroTech",
+                "SmartDevices Inc.",
+                "Digital Innovations"
+            ]
+        }
+    ]
+}

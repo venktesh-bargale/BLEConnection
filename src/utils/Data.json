@@ -1,0 +1,211 @@
+{
+  "rooms": [
+    {
+      "name": "Living Room",
+      "Icon": "https://cdn-icons-png.flaticon.com/128/2400/2400622.png",
+      "assets": [
+        {
+          "name": "Sofa",
+          "type": "furniture",
+          "assetname": "sofa1",
+          "assetClass": "Furniture",
+          "status": "Available",
+          "systemParent": "Living Room",
+          "manufacturer": "ABC Furniture Co.",
+          "model": "ComfortPlus",
+          "serialNo": "12345",
+          "Installed_date": "2014",
+          "Currect_condition": "TBD",
+          "Legacy_asset_no": "TBD",
+          "isMobileAsset": "No",
+          "additional_info": {
+            "Does asset exist": "Yes",
+            "Is a System": "Yes",
+            "Is Standalone": "No",
+            "Can Verify Data": "Yes"
+          }
+        },
+        {
+          "name": "Television",
+          "type": "electronics",
+          "assetname": "Television1",
+          "assetClass": "Electronics",
+          "status": "In Use",
+          "systemParent": "Living Room",
+          "manufacturer": "XYZ Electronics",
+          "model": "Smart TV 2000",
+          "serialNo": "67890",
+          "Installed_date": "2014",
+          "Currect_condition": "TBD",
+          "Legacy_asset_no": "TBD",
+          "isMobileAsset": "Yes",
+          "additional_info": {
+            "Does asset exist": "Yes",
+            "Is a System": "No",
+            "Is Standalone": "No",
+            "Can Verify Data": "Yes"
+          }
+        },
+        {
+          "name": "Coffee Table",
+          "type": "furniture",
+          "assetname": "Coffee Table1",
+          "assetClass": "Furniture",
+          "status": "Available",
+          "systemParent": "Living Room",
+          "manufacturer": "DEF Furnishings",
+          "model": "ModernCofeeTable",
+          "serialNo": "54321",
+          "Installed_date": "2014",
+          "Currect_condition": "TBD",
+          "Legacy_asset_no": "TBD",
+          "isMobileAsset": "No",
+          "additional_info": {
+            "Does asset exist": "Yes",
+            "Is a System": "Yes",
+            "Is Standalone": "No",
+            "Can Verify Data": "Yes"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Bedroom",
+      "Icon": "https://cdn-icons-png.flaticon.com/512/6192/6192020.png",
+      "assets": [
+        {
+          "name": "Bed",
+          "type": "furniture",
+          "assetClass": "Furniture",
+          "assetname": "Bed1",
+          "status": "In Use",
+          "systemParent": "Bedroom",
+          "manufacturer": "SleepWell",
+          "model": "DreamCloud",
+          "serialNo": "98765",
+          "Installed_date": "2014",
+          "Currect_condition": "TBD",
+          "Legacy_asset_no": "TBD",
+          "isMobileAsset": "Yes",
+          "additional_info": {
+            "Does asset exist": "Yes",
+            "Is a System": "Yes",
+            "Is Standalone": "No",
+            "Can Verify Data": "Yes"
+          }
+        },
+        {
+          "name": "Wardrobe",
+          "type": "furniture",
+          "assetClass": "Furniture",
+          "assetname": "Wadrobe1",
+          "status": "Available",
+          "systemParent": "Bedroom",
+          "manufacturer": "FurnitureMart",
+          "model": "StorageMaster",
+          "serialNo": "45678",
+          "Installed_date": "2014",
+          "Currect_condition": "TBD",
+          "Legacy_asset_no": "TBD",
+          "isMobileAsset": "No",
+          "additional_info": {
+            "Does asset exist": "Yes",
+            "Is a System": "Yes",
+            "Is Standalone": "No",
+            "Can Verify Data": "Yes"
+          }
+        },
+        {
+          "name": "Air Conditioner",
+          "type": "electronics",
+          "assetClass": "Electronics",
+          "assetname": "Air COnditioner1",
+          "status": "In Use",
+          "systemParent": "Bedroom",
+          "manufacturer": "CoolTech",
+          "model": "CoolBreeze",
+          "serialNo": "13579",
+          "Installed_date": "2014",
+          "Currect_condition": "TBD",
+          "Legacy_asset_no": "TBD",
+          "isMobileAsset": "No",
+          "additional_info": {
+            "Does asset exist": "Yes",
+            "Is a System": "Yes",
+            "Is Standalone": "No",
+            "Can Verify Data": "Yes"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kitchen",
+      "Icon": "https://cdn-icons-png.flaticon.com/128/2851/2851928.png",
+      "assets": [
+        {
+          "name": "Refrigerator",
+          "type": "electronics",
+          "assetClass": "Electronics",
+          "assetname": "Refrigerator1",
+          "status": "In Use",
+          "systemParent": "Kitchen",
+          "manufacturer": "ChillTech",
+          "model": "FreezeMaster",
+          "serialNo": "24680",
+          "Installed_date": "2014",
+          "Currect_condition": "TBD",
+          "Legacy_asset_no": "TBD",
+          "isMobileAsset": "Nos",
+          "additional_info": {
+            "Does asset exist": "Yes",
+            "Is a System": "Yes",
+            "Is Standalone": "No",
+            "Can Verify Data": "Yes"
+          }
+        },
+        {
+          "name": "Dining Table",
+          "type": "furniture",
+          "assetClass": "Furniture",
+          "assetname": "Dining Table1",
+          "status": "Available",
+          "systemParent": "Kitchen",
+          "manufacturer": "DineWell",
+          "model": "FamilyFeast",
+          "serialNo": "98765",
+          "Installed_date": "2014",
+          "Currect_condition": "TBD",
+          "Legacy_asset_no": "TBD",
+          "isMobileAsset": "No",
+          "additional_info": {
+            "Does asset exist": "Yes",
+            "Is a System": "Yes",
+            "Is Standalone": "No",
+            "Can Verify Data": "Yes"
+          }
+        },
+        {
+          "name": "Stove",
+          "type": "electronics",
+          "assetClass": "Electronics",
+          "assetname": "Stove1",
+          "status": "Available",
+          "systemParent": "Kitchen",
+          "manufacturer": "CookMaster",
+          "model": "FireChef",
+          "serialNo": "23456",
+          "Installed_date": "2014",
+          "Currect_condition": "TBD",
+          "Legacy_asset_no": "TBD",
+          "isMobileAsset": "No",
+          "additional_info": {
+            "Does asset exist": "Yes",
+            "Is a System": "Yes",
+            "Is Standalone": "No",
+            "Can Verify Data": "Yes"
+          }
+        }
+      ]
+    }
+  ]
+}
